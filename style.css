@@ -55,7 +55,7 @@ header .menu-toggle{
 }
 .section1{
     display: flex;
-    height: 100vh;
+    height: 100%;
 }
 .info h1{
     letter-spacing: 4px;
@@ -196,4 +196,5 @@ header .menu-toggle{
     flex-direction: column;
 }
 }
+
 
