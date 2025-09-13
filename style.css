@@ -48,7 +48,8 @@ header .menu-toggle{
 }
 .section1 .info{
     width: 45%;
-   height:100%;
+    height: 100%;
+    padding:0 10%;
     font-family: sans-serif;
    
 }
@@ -209,13 +210,6 @@ header .menu-toggle{
     }
     
 }
-
-
-
-
-
-
-
 
 
 
