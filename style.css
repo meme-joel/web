@@ -177,7 +177,7 @@ header .menu-toggle{
         
     }
     .sec2-img img{
-        height: 98%;
+        height: 97%;
     }
  .section2 .right{
    width: 100%;
@@ -196,6 +196,17 @@ header .menu-toggle{
     flex-direction: column;
 }
 }
+@media (max-width: 500px) {
+    .section1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .section1 .img1{
+        height: 25rem;
+        width: 70%;
+    }
+    
 
 
 
