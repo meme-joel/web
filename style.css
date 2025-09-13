@@ -131,7 +131,7 @@ header .menu-toggle{
     font-weight: 600;
 }
 
-@media (max-width:1500px) {
+@media (max-width:1700px) {
     .section1 .info{
     font-size: larger;
     padding:20% 10%;
@@ -207,6 +207,7 @@ header .menu-toggle{
         width: 70%;
     }
 }
+
 
 
 
