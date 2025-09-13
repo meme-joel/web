@@ -131,14 +131,7 @@ header .menu-toggle{
     font-weight: 600;
 }
 
-@media (max-width:1200px) {
-    .section1 .info{
-    font-size: larger;
-    padding:20% 10%;
-    
-}
-    
-}
+
 @media (max-width: 1100px) {
   .nav {
     display: none;
@@ -209,5 +202,6 @@ header .menu-toggle{
     }
     
 }
+
 
 
