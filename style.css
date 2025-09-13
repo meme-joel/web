@@ -131,14 +131,11 @@ header .menu-toggle{
     font-weight: 600;
 }
 
-@media (max-width:2000px) {
+@media (max-width:1500px) {
     .section1 .info{
     font-size: larger;
     padding:20% 10%;
-    height:auto;
-}
-    .section1{
-        height:auto;
+    
     }
     
 }
@@ -199,6 +196,7 @@ header .menu-toggle{
     flex-direction: column;
 }
 }
+
 
 
 
