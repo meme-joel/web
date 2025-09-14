@@ -78,6 +78,7 @@ header .menu-toggle{
     padding: 10px 50px ;
     border:none;
     cursor: pointer;
+    margin-bottom:15px;
 }
 .section2{
     display: flex;
@@ -207,10 +208,11 @@ header .menu-toggle{
     .section1 .img1{
         height: 25rem;
         width: 70%;
-        margin-top:5%;
+        
     }
     
 }
+
 
 
 
