@@ -131,9 +131,7 @@ header .menu-toggle{
     font-size:45px ;
     font-weight: 600;
 }
- .content{
-    margin-bottom:5%;
-}
+ 
 @media (max-width:1200px) {
     .section1 .info{
     font-size: larger;
@@ -215,6 +213,7 @@ header .menu-toggle{
     }
     
 }
+
 
 
 
