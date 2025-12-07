@@ -131,6 +131,10 @@ header .menu-toggle{
     font-size:45px ;
     font-weight: 600;
 }
+.content .arrow{
+    display:flex;
+    justify-content:space-between;
+}
  
 @media (max-width:1200px) {
     .section1 .info{
@@ -213,6 +217,7 @@ header .menu-toggle{
     }
     
 }
+
 
 
 
